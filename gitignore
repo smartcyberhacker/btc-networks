@@ -1,0 +1,8 @@
+g.idea/
+*/__pycache__/
+*.pyc
+*.sw[op]
+dist/
+build/
+*.egg-info/
+.mypy_cache
